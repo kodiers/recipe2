@@ -20,11 +20,12 @@
     "@angular/platform-browser": "^4.0.0",
     "@angular/platform-browser-dynamic": "^4.0.0",
     "@angular/router": "^4.0.0",
+    "@ngrx/store": "^4.1.1",
     "bootstrap": "^3.3.7",
     "core-js": "^2.4.1",
     "enhanced-resolve": "^3.3.0",
     "firebase": "^4.8.0",
-    "rxjs": "^5.1.0",
+    "rxjs": "5.4.3",
     "zone.js": "^0.8.4"
   },
   "devDependencies": {
@@ -44,6 +45,6 @@
     "protractor": "~5.1.0",
     "ts-node": "~2.0.0",
     "tslint": "~4.5.0",
-    "typescript": "~2.2.0"
+    "typescript": "2.4.2"
   }
 }
